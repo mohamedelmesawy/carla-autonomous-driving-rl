@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Checkpoints and logs
+checkpoints/*
+*.pth
+*.ckpt
+logs/
+*.log
+
+# Videos and images
+*.mp4
+*.avi
+*.png
+*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CARLA
+CarlaUE4/

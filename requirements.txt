@@ -1,0 +1,23 @@
+# CARLA RL Framework Requirements
+
+# Core Dependencies
+numpy>=1.21.0
+torch>=1.10.0
+opencv-python>=4.5.0
+
+# Gym
+gym>=0.21.0
+gym-notices>=0.0.1
+
+# CARLA Python API (install separately)
+# carla>=0.9.13
+
+# Optional but recommended
+tensorboard>=2.8.0
+matplotlib>=3.5.0
+pillow>=9.0.0
+tqdm>=4.62.0
+
+# For CUDA support (install appropriate version)
+# For CUDA 11.8: torch>=2.0.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+# For CUDA 12.1: torch>=2.0.0+cu121 --extra-index-url https://download.pytorch.org/whl/cu121
