@@ -2,12 +2,11 @@
 
 CARLA (Car Learning & Acting) Simulator is a popular open-source platform for developing and testing autonomous driving (AD) systems, built on the Unreal Engine for realistic 3D environments. It provides flexible tools, APIs (Python/C++), digital assets, and simulated sensors (like cameras, LiDAR) to generate data and evaluate AD algorithms safely, allowing researchers and engineers to train perception models and control policies without real-world risk, supporting everything from basic learning to complex traffic scenarios. 
 
-<img src="image-1.png" style="width:100%;" />
-
+<img width="100%" alt="image-1" src="https://github.com/user-attachments/assets/54d3249a-6d35-40b6-980f-df36277fa087" />
 
 A modular and comprehensive Reinforcement Learning framework for training autonomous vehicles in the CARLA simulator using PyTorch.
 
-<img src="image.png" style="width:100%;" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/0c990a11-714c-4a2d-b8d4-731eb3bec31a" />
 
 ## Table of Contents
 
